@@ -214,5 +214,5 @@ Fue creada únicamente para comprobar el valor de la contraseña encriptada.
 
 ## Autor
 
-Valentina Villarroel
+Valentina Villarroel - 
 Desarrollado como proyecto final del **Módulo 6 — Desarrollo de aplicaciones JEE con Spring Framework** en Alkemy - English Always.
